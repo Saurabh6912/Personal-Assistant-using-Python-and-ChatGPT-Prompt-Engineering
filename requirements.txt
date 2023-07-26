@@ -1,0 +1,10 @@
+# Required Python version
+Python                        3.9.13
+
+## Package dependencies
+Package                       Version
+----------------------------- ---------------
+jupyter                       1.0.0
+notebook                      6.4.12
+openai                        0.27.8
+gradio                        3.38.0
