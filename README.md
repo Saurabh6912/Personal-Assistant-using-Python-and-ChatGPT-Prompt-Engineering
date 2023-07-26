@@ -26,6 +26,15 @@ This project demonstrates the power of OpenAI's ChatGPT model, allowing users to
 Prompt engineering is a powerful technique that enables users to shape the behavior and output of AI models. 
 By strategically designing prompts, users can guide models to produce accurate, relevant, and context-aware responses for various tasks.
 
+## Sample Output
+**Output 1**
+
+![output_1](https://github.com/Saurabh6912/Personal-Assistant-using-Python-and-ChatGPT-Prompt-Engineering/assets/135308872/12600e30-5d34-47a6-8375-d6db52637aeb)
+
+**Output 2**
+
+![output_2](https://github.com/Saurabh6912/Personal-Assistant-using-Python-and-ChatGPT-Prompt-Engineering/assets/135308872/5b8c2681-288f-45d5-8a28-175390eefc18)
+
 ## Contributions
 We encourage contributions to enhance the capabilities and interactions of the Personal Assistant. 
 Feel free to submit pull requests with new features, improved prompts, or bug fixes. For significant changes, please open an issue first to discuss your ideas.
