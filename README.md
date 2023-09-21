@@ -5,7 +5,7 @@ The Personal Assistant is an AI-based application that utilizes ChatGPT prompt e
 This project demonstrates the power of OpenAI's ChatGPT model, allowing users to interact with a conversational AI to get answers to various questions and perform tasks.
 
 # Live Application
-https://8e81b4a8b5f33bb634.gradio.live/
+https://ba3dbf5bc8e2f4c917.gradio.live/
 
 ## Features
 **Customizable Prompts:** Easily customize prompts to shape the behavior and responses of the personal assistant (eg. Finance Expert, real Estate Assistant etc).
